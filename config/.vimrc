@@ -6,6 +6,7 @@ set expandtab
 set nu
 set clipboard=unnamed
 set background=dark
+set cursorline
 
 filetype on
 augroup uniqSettings
